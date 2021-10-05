@@ -1,0 +1,2 @@
+# DrumKit
+A web application to play drum by clicking drum images or using keyboard keys
